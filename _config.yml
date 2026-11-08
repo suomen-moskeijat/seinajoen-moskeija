@@ -1,0 +1,10 @@
+# Seinäjoen moskeija – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Seinäjoen moskeija"
+description: "Seinäjoen moskeija, Vapaudentie 28, Seinäjoki. Rukousajat, tapahtumat ja toiminta."
+moskeija: seinajoen-moskeija     # tiedosto _moskeijat/seinajoen-moskeija.md
+
+# Osoite: https://suomen-moskeijat.github.io/seinajoen-moskeija/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/seinajoen-moskeija"
